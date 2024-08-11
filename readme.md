@@ -12,6 +12,10 @@ This URL shortener service allows users to shorten long URLs into shorter, more 
 - **Custom Short URLs**: Allow users to specify custom short links.
 - **HTTPS Enforcement**: Automatically convert URLs to HTTPS.
 
+## Screenshot
+
+![Application Screenshot](assets/screenshot.png) 
+
 ## Prerequisites
 
 - Go 1.19+
