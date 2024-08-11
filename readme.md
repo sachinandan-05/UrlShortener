@@ -14,7 +14,7 @@ This URL shortener service allows users to shorten long URLs into shorter, more 
 
 ## Screenshot
 
-![Application Screenshot](UrlShortener/assets/Screenshot.png) 
+![Application Screenshot](/assets/Screenshot.png) 
 
 ## Prerequisites
 
